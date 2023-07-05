@@ -1,0 +1,608 @@
+function mostrar1() {
+    document.getElementById('por2023').style.display = 'block';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar2() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'block';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar3() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'block';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar4() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'block';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar5() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'block';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar6() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'block';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar7() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'block';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar8() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'block';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar9() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'block';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar9() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'block';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar10() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'block';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar11() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'block';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar12() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'block';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar13() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'block';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar14() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'block';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar15() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'block';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar16() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'block';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar17() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('sor2015').style.display = 'block';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar18() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'block';
+    document.getElementById('sor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar19() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('sor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'block';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar20() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('sor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'block';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+}
+function mostrar21() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'block';
+}
+function mostrar22() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'none';
+    document.getElementById('por2012').style.display = 'block';
+    document.getElementById('pex2012').style.display = 'none';
+}
+function mostrar23() {
+    document.getElementById('por2023').style.display = 'none';
+    document.getElementById('sor2022').style.display = 'none';
+    document.getElementById('por2022').style.display = 'none';
+    document.getElementById('por2021').style.display = 'none';
+    document.getElementById('por2020').style.display = 'none';
+    document.getElementById('sor2019').style.display = 'none';
+    document.getElementById('por2019').style.display = 'none';
+    document.getElementById('pex2019').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('por2018').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    document.getElementById('sor2017').style.display = 'none';
+    document.getElementById('por2017').style.display = 'none';
+    document.getElementById('sex2017').style.display = 'none';
+    document.getElementById('pex2017').style.display = 'none';
+    document.getElementById('tor2016').style.display = 'none';
+    document.getElementById('sor2016').style.display = 'none';
+    document.getElementById('por2016').style.display = 'none';
+    document.getElementById('tor2015').style.display = 'none';
+    document.getElementById('tor2014').style.display = 'none';
+    document.getElementById('pex2013').style.display = 'none';
+    document.getElementById('sor2012').style.display = 'block';
+    document.getElementById('por2012').style.display = 'none';
+    document.getElementById('pex2012').style.display = 'none';
+}
