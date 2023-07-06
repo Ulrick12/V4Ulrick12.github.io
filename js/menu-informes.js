@@ -10,12 +10,16 @@ function mostrar1() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar2() {
@@ -29,12 +33,16 @@ function mostrar2() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar3() {
@@ -48,12 +56,16 @@ function mostrar3() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar4() {
@@ -67,12 +79,16 @@ function mostrar4() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar5() {
@@ -86,12 +102,16 @@ function mostrar5() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar6() {
@@ -105,12 +125,16 @@ function mostrar6() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 
@@ -126,12 +150,16 @@ function mostrar7() {
     document.getElementById('s2022').style.display = 'block';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar8() {
@@ -145,12 +173,16 @@ function mostrar8() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar9() {
@@ -164,12 +196,16 @@ function mostrar9() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'block';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar10() {
@@ -183,12 +219,16 @@ function mostrar10() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'block';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar11() {
@@ -202,12 +242,16 @@ function mostrar11() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'block';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar12() {
@@ -221,12 +265,16 @@ function mostrar12() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'block';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar13() {
@@ -240,12 +288,16 @@ function mostrar13() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
-    document.getElementById('p2015').style.display = 'block';
+    document.getElementById('o2015').style.display = 'none';
+    document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar14() {
@@ -259,12 +311,16 @@ function mostrar14() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'block';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'none';
 }
 function mostrar15() {
@@ -278,14 +334,115 @@ function mostrar15() {
     document.getElementById('s2022').style.display = 'none';
     document.getElementById('previsual__imagen').style.display = 'none';
     //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
     document.getElementById('p2013').style.display = 'none';
     document.getElementById('s2013').style.display = 'none';
     document.getElementById('p2014').style.display = 'none';
     document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
     document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
     document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
     document.getElementById('p2017').style.display = 'block';
 }
+//Nuevos archivos mostrar16 es del oficio 2013
+function mostrar16() {
+    document.getElementById('p2019').style.display = 'none';
+    document.getElementById('s2019').style.display = 'none';
+    document.getElementById('p2020').style.display = 'none';
+    document.getElementById('s2020').style.display = 'none';
+    document.getElementById('p2021').style.display = 'none';
+    document.getElementById('s2021').style.display = 'none';
+    document.getElementById('p2022').style.display = 'none';
+    document.getElementById('s2022').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'block';
+    document.getElementById('p2013').style.display = 'none';
+    document.getElementById('s2013').style.display = 'none';
+    document.getElementById('p2014').style.display = 'none';
+    document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
+    document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
+    document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
+    document.getElementById('p2017').style.display = 'none';
+}
+//Nuevos archivos mostrar16 es del oficio 2015 y segundo informe 2015
+function mostrar17() {
+    document.getElementById('p2019').style.display = 'none';
+    document.getElementById('s2019').style.display = 'none';
+    document.getElementById('p2020').style.display = 'none';
+    document.getElementById('s2020').style.display = 'none';
+    document.getElementById('p2021').style.display = 'none';
+    document.getElementById('s2021').style.display = 'none';
+    document.getElementById('p2022').style.display = 'none';
+    document.getElementById('s2022').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
+    document.getElementById('p2013').style.display = 'none';
+    document.getElementById('s2013').style.display = 'none';
+    document.getElementById('p2014').style.display = 'none';
+    document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
+    document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'block';
+    document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
+    document.getElementById('p2017').style.display = 'none';
+}
+//Nuevos archivos mostrar16 es del oficio 2015 y segundo informe 2015
+function mostrar18() {
+    document.getElementById('p2019').style.display = 'none';
+    document.getElementById('s2019').style.display = 'none';
+    document.getElementById('p2020').style.display = 'none';
+    document.getElementById('s2020').style.display = 'none';
+    document.getElementById('p2021').style.display = 'none';
+    document.getElementById('s2021').style.display = 'none';
+    document.getElementById('p2022').style.display = 'none';
+    document.getElementById('s2022').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
+    document.getElementById('p2013').style.display = 'none';
+    document.getElementById('s2013').style.display = 'none';
+    document.getElementById('p2014').style.display = 'none';
+    document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'block';
+    document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
+    document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'none';
+    document.getElementById('p2017').style.display = 'none';
+}
+//Nuevos archivos 2016 segundo informe
+function mostrar19() {
+    document.getElementById('p2019').style.display = 'none';
+    document.getElementById('s2019').style.display = 'none';
+    document.getElementById('p2020').style.display = 'none';
+    document.getElementById('s2020').style.display = 'none';
+    document.getElementById('p2021').style.display = 'none';
+    document.getElementById('s2021').style.display = 'none';
+    document.getElementById('p2022').style.display = 'none';
+    document.getElementById('s2022').style.display = 'none';
+    document.getElementById('previsual__imagen').style.display = 'none';
+    //Documentos de la otra opcion
+    document.getElementById('o2013').style.display = 'none';
+    document.getElementById('p2013').style.display = 'none';
+    document.getElementById('s2013').style.display = 'none';
+    document.getElementById('p2014').style.display = 'none';
+    document.getElementById('s2014').style.display = 'none';
+    document.getElementById('o2015').style.display = 'none';
+    document.getElementById('p2015').style.display = 'none';
+    document.getElementById('s2015').style.display = 'none';
+    document.getElementById('p2016').style.display = 'none';
+    document.getElementById('s2016').style.display = 'block';
+    document.getElementById('p2017').style.display = 'none';
+}
+
 //FINVisualizar y ocultar documentos de la otra opcion
 
 //FIN Visualizar y ocultar documentos
